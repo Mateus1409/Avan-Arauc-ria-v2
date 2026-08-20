@@ -7,9 +7,9 @@ avancaraucaria/.next/
 avancaraucaria/out/
 avancaraucaria/build/
 
-# Large media files (host on CDN instead)
-avancaraucaria/public/videos/
-imgs/
+# Large media files (tracked with Git LFS)
+# avancaraucaria/public/videos/
+# imgs/
 
 # Environment files
 avanca-araucaria/.env*
