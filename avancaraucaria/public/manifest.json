@@ -1,0 +1,28 @@
+{
+  "name": "AvançAraucária - Conselho de Desenvolvimento Econômico",
+  "short_name": "AvançAraucária",
+  "description": "Conectamos pessoas, empresas, instituições e poder público para impulsionar o desenvolvimento econômico sustentável de Araucária.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fafafa",
+  "theme_color": "#16a34a",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["government", "business", "education"],
+  "lang": "pt-BR",
+  "dir": "ltr"
+}
